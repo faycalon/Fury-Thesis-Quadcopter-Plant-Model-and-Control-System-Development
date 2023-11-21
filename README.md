@@ -5,5 +5,5 @@ This just the Implementation of the models provided by Mr Fury in his Thesis abo
 "http://www.ritravvenlab.com/uploads/1/1/8/4/118484574/ferry.pdf"
 
 ![image](https://github.com/faycalon/Fury-Thesis-Quadcopter-Plant-Model-and-Control-System-Development/assets/105249849/75cfa897-56bb-42e6-981c-367b16bb9fb3)
-
+2.2 Basic Simulink Plant Model:
 ![Screenshot 2023-11-20 235328](https://github.com/faycalon/Fury-Thesis-Quadcopter-Plant-Model-and-Control-System-Development/assets/105249849/455429ab-d39e-4923-ad2b-7d131b18248d)
